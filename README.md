@@ -124,7 +124,32 @@ if the code executed, it will scan all tile and find tile foreground ID 2 ( item
 
 ```
 
+```
+void GetInventory()
 
+# How to use
+
+for _, item in pairs(GetInventory) do
+ Log(item.name)
+end
+
+# Explanation
+
+get inv
+
+```
+
+```
+void addHook()
+
+# How to use
+
+addHook(event name, callback function name)
+
+# Explanation
+
+works like event
+```
 
 ## Structure
 ```
