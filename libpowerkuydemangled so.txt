@@ -1,0 +1,814 @@
+         U AInputEvent_getType
+         U AKeyEvent_getAction
+         U AKeyEvent_getKeyCode
+         U AKeyEvent_getMetaState
+         U AMotionEvent_getAction
+         U AMotionEvent_getAxisValue
+         U AMotionEvent_getToolType
+         U AMotionEvent_getX
+         U AMotionEvent_getY
+         U ANativeWindow_getHeight
+         U ANativeWindow_getWidth
+000b8704 T Java_executor_luamanager_LuaManager_CheckExecute
+000ec850 T Java_executor_luamanager_LuaManager_Execute
+0010a16c T Java_executor_luamanager_LuaManager_StopExecute
+0005ed34 T Java_launcher_powerkuy_FloatGT_Ptouch
+000b965c T Java_launcher_powerkuy_Main_isgl
+000b8e20 T Java_launcher_powerkuy_api_ScriptManager_getNetAvatarInt
+000b9690 T Java_launcher_powerkuy_api_ScriptManager_nativeGetPosX
+000b96e0 T Java_launcher_powerkuy_api_ScriptManager_nativeGetPosY
+000b9768 T Java_launcher_powerkuy_api_ScriptManager_nativeLogToConsole
+000c29f8 T Java_launcher_powerkuy_api_ScriptManager_nativeSendChat
+000b98c0 T Java_launcher_powerkuy_api_ScriptManager_nativeSendPacket
+000b9674 T Java_launcher_powerkuy_api_ScriptManager_nativeSetPos
+000b8e1c T Java_launcher_powerkuy_api_ScriptManager_nativeSetPosAvatar
+000b8e6c T Java_launcher_powerkuy_api_ScriptManager_nativeSpawnAvatar
+000b8d98 T Java_launcher_powerkuy_api_ScriptManager_nativedumptable
+000b9730 T Java_launcher_powerkuy_api_ScriptManager_nativeisPlayerValid
+000b8798 T Java_launcher_powerkuy_api_ScriptManager_nativesendvariant
+0013f110 T Java_powerkuy_modmenu_ModMenuList_Icon
+0013f010 T Java_powerkuy_modmenu_ModMenuList_getFeatureList
+0005ed18 T Java_powerkuy_modmenu_NativeCall_AddBot
+000b8358 T Java_powerkuy_modmenu_NativeCall_BotName
+000ed0bc T Java_powerkuy_modmenu_NativeCall_Custom
+000f4c74 T Java_powerkuy_modmenu_NativeCall_CustomTile
+000b8648 T Java_powerkuy_modmenu_NativeCall_Destroy
+000f53a4 T Java_powerkuy_modmenu_NativeCall_MoveBot
+00063368 T Java_powerkuy_modmenu_NativeCall_SetPkg
+0013f130 T Java_powerkuy_modmenu_NativeCall_Spinner
+00116e5c T Java_powerkuy_modmenu_NativeCall_Toggle
+000b8464 T Java_powerkuy_modmenu_NativeCall_World
+0013eed0 T Java_powerkuy_modmenu_NativeCall_getaction
+000ba67c T Java_powerkuy_modmenu_NativeCall_initsetting
+000b8208 T Java_powerkuy_modmenu_NativeCall_isonline
+000b99b8 T Java_powerkuy_modmenu_NativeCall_nativeseek
+000b99d0 T Java_powerkuy_modmenu_NativeCall_nativestring
+000b99c0 T Java_powerkuy_modmenu_NativeCall_nativetog
+0013f128 T Java_powerkuy_modmenu_NativeCall_whatlol
+00051040 T Java_uk_lgl_NativeToast_Toast
+00065d74 T Java_uk_lgl_modmenu_FloatingModMenuService_GetBotStatus
+00065d78 T Java_uk_lgl_modmenu_FloatingModMenuService_GetWorld
+00050eac T Java_uk_lgl_modmenu_FloatingModMenuService_Heading
+00050edc T Java_uk_lgl_modmenu_FloatingModMenuService_Icon
+00050f08 T Java_uk_lgl_modmenu_FloatingModMenuService_IconWebViewData
+0005061c T Java_uk_lgl_modmenu_FloatingModMenuService_LoadSounds
+00050e7c T Java_uk_lgl_modmenu_FloatingModMenuService_Title
+00050f24 T Java_uk_lgl_modmenu_FloatingModMenuService_getFeatureList
+000c1d14 T Java_uk_lgl_modmenu_Preferences_CallText
+0022f478 B MSDebug
+00133594 T MSHookFunction
+00183f84 T _Unwind_Backtrace
+001834b0 T _Unwind_Complete
+001834b4 T _Unwind_DeleteException
+00183f60 T _Unwind_ForcedUnwind
+00183354 T _Unwind_GetCFA
+00184438 T _Unwind_GetDataRelBase
+0018441c T _Unwind_GetLanguageSpecificData
+0018440c T _Unwind_GetRegionStart
+00184440 T _Unwind_GetTextRelBase
+00183ef4 T _Unwind_RaiseException
+00183f18 T _Unwind_Resume
+00183f3c T _Unwind_Resume_or_Rethrow
+001834cc T _Unwind_VRS_Get
+00183aa4 T _Unwind_VRS_Pop
+00183550 T _Unwind_VRS_Set
+00140180 T __cxxabiv1::__terminate(void (*)())
+001401fc T __cxxabiv1::__unexpected(void (*)())
+0013fab8 T __cxxabiv1::__forced_unwind::~__forced_unwind()
+0013fab4 T __cxxabiv1::__forced_unwind::~__forced_unwind()
+0013fab4 T __cxxabiv1::__forced_unwind::~__forced_unwind()
+0013f1d8 T __cxxabiv1::__class_type_info::~__class_type_info()
+0013f1bc T __cxxabiv1::__class_type_info::~__class_type_info()
+0013f1bc T __cxxabiv1::__class_type_info::~__class_type_info()
+0017576c T __cxxabiv1::__pbase_type_info::~__pbase_type_info()
+00175750 T __cxxabiv1::__pbase_type_info::~__pbase_type_info()
+00175750 T __cxxabiv1::__pbase_type_info::~__pbase_type_info()
+0013fad0 T __cxxabiv1::__foreign_exception::~__foreign_exception()
+0013facc T __cxxabiv1::__foreign_exception::~__foreign_exception()
+0013facc T __cxxabiv1::__foreign_exception::~__foreign_exception()
+0014057c T __cxxabiv1::__pointer_type_info::~__pointer_type_info()
+00140560 T __cxxabiv1::__pointer_type_info::~__pointer_type_info()
+00140560 T __cxxabiv1::__pointer_type_info::~__pointer_type_info()
+002260b4 D __cxxabiv1::__terminate_handler
+0014062c T __cxxabiv1::__si_class_type_info::~__si_class_type_info()
+00140610 T __cxxabiv1::__si_class_type_info::~__si_class_type_info()
+00140610 T __cxxabiv1::__si_class_type_info::~__si_class_type_info()
+00226024 D __cxxabiv1::__unexpected_handler
+001757f8 T __cxxabiv1::__vmi_class_type_info::~__vmi_class_type_info()
+001757dc T __cxxabiv1::__vmi_class_type_info::~__vmi_class_type_info()
+001757dc T __cxxabiv1::__vmi_class_type_info::~__vmi_class_type_info()
+001756f8 T __cxxabiv1::__fundamental_type_info::~__fundamental_type_info()
+001756dc T __cxxabiv1::__fundamental_type_info::~__fundamental_type_info()
+001756dc T __cxxabiv1::__fundamental_type_info::~__fundamental_type_info()
+00175d78 T __gnu_cxx::__verbose_terminate_handler()
+0013f204 T __cxxabiv1::__class_type_info::__do_catch(std::type_info const*, void**, unsigned int) const
+0013f1ec T __cxxabiv1::__class_type_info::__do_upcast(__cxxabiv1::__class_type_info const*, void const*, __cxxabiv1::__class_type_info::__upcast_result&) const
+0013f17c T __cxxabiv1::__class_type_info::__do_upcast(__cxxabiv1::__class_type_info const*, void**) const
+0013f230 T __cxxabiv1::__class_type_info::__do_dyncast(int, __cxxabiv1::__class_type_info::__sub_kind, __cxxabiv1::__class_type_info const*, void const*, __cxxabiv1::__class_type_info const*, void const*, __cxxabiv1::__class_type_info::__dyncast_result&) const
+0013f1b0 T __cxxabiv1::__class_type_info::__do_find_public_src(int, void const*, __cxxabiv1::__class_type_info const*, void const*) const
+00175780 T __cxxabiv1::__pbase_type_info::__do_catch(std::type_info const*, void**, unsigned int) const
+0014055c T __cxxabiv1::__pointer_type_info::__is_pointer_p() const
+00140590 T __cxxabiv1::__pointer_type_info::__pointer_catch(__cxxabiv1::__pbase_type_info const*, void**, unsigned int) const
+0014070c T __cxxabiv1::__si_class_type_info::__do_upcast(__cxxabiv1::__class_type_info const*, void const*, __cxxabiv1::__class_type_info::__upcast_result&) const
+0014067c T __cxxabiv1::__si_class_type_info::__do_dyncast(int, __cxxabiv1::__class_type_info::__sub_kind, __cxxabiv1::__class_type_info const*, void const*, __cxxabiv1::__class_type_info const*, void const*, __cxxabiv1::__class_type_info::__dyncast_result&) const
+00140640 T __cxxabiv1::__si_class_type_info::__do_find_public_src(int, void const*, __cxxabiv1::__class_type_info const*, void const*) const
+00175c14 T __cxxabiv1::__vmi_class_type_info::__do_upcast(__cxxabiv1::__class_type_info const*, void const*, __cxxabiv1::__class_type_info::__upcast_result&) const
+00175894 T __cxxabiv1::__vmi_class_type_info::__do_dyncast(int, __cxxabiv1::__class_type_info::__sub_kind, __cxxabiv1::__class_type_info const*, void const*, __cxxabiv1::__class_type_info const*, void const*, __cxxabiv1::__class_type_info::__dyncast_result&) const
+0017580c T __cxxabiv1::__vmi_class_type_info::__do_find_public_src(int, void const*, __cxxabiv1::__class_type_info const*, void const*) const
+0017538c T std::bad_typeid::what() const
+0013fa80 T std::bad_exception::what() const
+001755c8 T std::__exception_ptr::exception_ptr::__cxa_exception_type() const
+0017556c T std::__exception_ptr::exception_ptr::_M_get() const
+001755ac T std::__exception_ptr::exception_ptr::operator void (std::__exception_ptr::exception_ptr::*)()() const
+001755a0 T std::__exception_ptr::exception_ptr::operator!() const
+001752d8 T std::bad_array_length::what() const
+00175314 T std::bad_array_new_length::what() const
+00175350 T std::bad_cast::what() const
+0013f140 T std::bad_alloc::what() const
+0013fa74 T std::exception::what() const
+001753b4 T std::bad_typeid::~bad_typeid()
+00175398 T std::bad_typeid::~bad_typeid()
+00175398 T std::bad_typeid::~bad_typeid()
+00131a68 W std::_Deque_base<int, std::allocator<int> >::_M_initialize_map(unsigned int)
+00131924 W std::__shared_ptr<std::thread::_Impl<std::_Bind_simple<void* (* ())()> >, (__gnu_cxx::_Lock_policy)2>::__shared_ptr<std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* ())()> > >, std::_Bind_simple<void* (* ())()> >(std::_Sp_make_shared_tag, std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* ())()> > > const&, std::_Bind_simple<void* (* ())()>&&)
+00131924 W std::__shared_ptr<std::thread::_Impl<std::_Bind_simple<void* (* ())()> >, (__gnu_cxx::_Lock_policy)2>::__shared_ptr<std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* ())()> > >, std::_Bind_simple<void* (* ())()> >(std::_Sp_make_shared_tag, std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* ())()> > > const&, std::_Bind_simple<void* (* ())()>&&)
+0013faa0 T std::bad_exception::~bad_exception()
+0013fa58 T std::bad_exception::~bad_exception()
+0013fa58 T std::bad_exception::~bad_exception()
+00175524 T std::__exception_ptr::exception_ptr::_M_release()
+00175470 T std::__exception_ptr::exception_ptr::_M_safe_bool_dummy()
+00175570 T std::__exception_ptr::exception_ptr::swap(std::__exception_ptr::exception_ptr&)
+001754e4 T std::__exception_ptr::exception_ptr::_M_addref()
+001754cc T std::__exception_ptr::exception_ptr::exception_ptr(void (std::__exception_ptr::exception_ptr::*)())
+00175504 T std::__exception_ptr::exception_ptr::exception_ptr(void*)
+00175514 T std::__exception_ptr::exception_ptr::exception_ptr(std::__exception_ptr::exception_ptr const&)
+001754c4 T std::__exception_ptr::exception_ptr::exception_ptr()
+001754cc T std::__exception_ptr::exception_ptr::exception_ptr(void (std::__exception_ptr::exception_ptr::*)())
+00175504 T std::__exception_ptr::exception_ptr::exception_ptr(void*)
+00175514 T std::__exception_ptr::exception_ptr::exception_ptr(std::__exception_ptr::exception_ptr const&)
+001754c4 T std::__exception_ptr::exception_ptr::exception_ptr()
+00175560 T std::__exception_ptr::exception_ptr::~exception_ptr()
+00175560 T std::__exception_ptr::exception_ptr::~exception_ptr()
+0017557c T std::__exception_ptr::exception_ptr::operator=(std::__exception_ptr::exception_ptr const&)
+001755d0 T std::__exception_ptr::operator==(std::__exception_ptr::exception_ptr const&, std::__exception_ptr::exception_ptr const&)
+001755e0 T std::__exception_ptr::operator!=(std::__exception_ptr::exception_ptr const&, std::__exception_ptr::exception_ptr const&)
+000175bc W std::_Sp_counted_base<(__gnu_cxx::_Lock_policy)2>::_M_destroy()
+00175300 T std::bad_array_length::~bad_array_length()
+001752e4 T std::bad_array_length::~bad_array_length()
+001752e4 T std::bad_array_length::~bad_array_length()
+00017ed8 W std::_Sp_counted_deleter<std::thread::_Impl<std::_Bind_simple<void* (* (_ENetPeer*, std::vector<Tile*, std::allocator<Tile*> >))(void*, std::vector<Tile*, std::allocator<Tile*> >)> >*, std::__shared_ptr<std::thread::_Impl<std::_Bind_simple<void* (* (_ENetPeer*, std::vector<Tile*, std::allocator<Tile*> >))(void*, std::vector<Tile*, std::allocator<Tile*> >)> >, (__gnu_cxx::_Lock_policy)2>::_Deleter<std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* (_ENetPeer*, std::vector<Tile*, std::allocator<Tile*> >))(void*, std::vector<Tile*, std::allocator<Tile*> >)> > > >, std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* (_ENetPeer*, std::vector<Tile*, std::allocator<Tile*> >))(void*, std::vector<Tile*, std::allocator<Tile*> >)> > >, (__gnu_cxx::_Lock_policy)2>::_M_destroy()
+0001e41c W std::_Sp_counted_deleter<std::thread::_Impl<std::_Bind_simple<void* (* (_ENetPeer*, std::vector<Tile*, std::allocator<Tile*> >))(void*, std::vector<Tile*, std::allocator<Tile*> >)> >*, std::__shared_ptr<std::thread::_Impl<std::_Bind_simple<void* (* (_ENetPeer*, std::vector<Tile*, std::allocator<Tile*> >))(void*, std::vector<Tile*, std::allocator<Tile*> >)> >, (__gnu_cxx::_Lock_policy)2>::_Deleter<std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* (_ENetPeer*, std::vector<Tile*, std::allocator<Tile*> >))(void*, std::vector<Tile*, std::allocator<Tile*> >)> > > >, std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* (_ENetPeer*, std::vector<Tile*, std::allocator<Tile*> >))(void*, std::vector<Tile*, std::allocator<Tile*> >)> > >, (__gnu_cxx::_Lock_policy)2>::_M_dispose()
+00017694 W std::_Sp_counted_deleter<std::thread::_Impl<std::_Bind_simple<void* (* (_ENetPeer*, std::vector<Tile*, std::allocator<Tile*> >))(void*, std::vector<Tile*, std::allocator<Tile*> >)> >*, std::__shared_ptr<std::thread::_Impl<std::_Bind_simple<void* (* (_ENetPeer*, std::vector<Tile*, std::allocator<Tile*> >))(void*, std::vector<Tile*, std::allocator<Tile*> >)> >, (__gnu_cxx::_Lock_policy)2>::_Deleter<std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* (_ENetPeer*, std::vector<Tile*, std::allocator<Tile*> >))(void*, std::vector<Tile*, std::allocator<Tile*> >)> > > >, std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* (_ENetPeer*, std::vector<Tile*, std::allocator<Tile*> >))(void*, std::vector<Tile*, std::allocator<Tile*> >)> > >, (__gnu_cxx::_Lock_policy)2>::_M_get_deleter(std::type_info const&)
+00017e94 W std::_Sp_counted_deleter<std::thread::_Impl<std::_Bind_simple<void* (* (_ENetPeer*, std::vector<Tile*, std::allocator<Tile*> >))(void*, std::vector<Tile*, std::allocator<Tile*> >)> >*, std::__shared_ptr<std::thread::_Impl<std::_Bind_simple<void* (* (_ENetPeer*, std::vector<Tile*, std::allocator<Tile*> >))(void*, std::vector<Tile*, std::allocator<Tile*> >)> >, (__gnu_cxx::_Lock_policy)2>::_Deleter<std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* (_ENetPeer*, std::vector<Tile*, std::allocator<Tile*> >))(void*, std::vector<Tile*, std::allocator<Tile*> >)> > > >, std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* (_ENetPeer*, std::vector<Tile*, std::allocator<Tile*> >))(void*, std::vector<Tile*, std::allocator<Tile*> >)> > >, (__gnu_cxx::_Lock_policy)2>::~_Sp_counted_deleter()
+00017690 W std::_Sp_counted_deleter<std::thread::_Impl<std::_Bind_simple<void* (* (_ENetPeer*, std::vector<Tile*, std::allocator<Tile*> >))(void*, std::vector<Tile*, std::allocator<Tile*> >)> >*, std::__shared_ptr<std::thread::_Impl<std::_Bind_simple<void* (* (_ENetPeer*, std::vector<Tile*, std::allocator<Tile*> >))(void*, std::vector<Tile*, std::allocator<Tile*> >)> >, (__gnu_cxx::_Lock_policy)2>::_Deleter<std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* (_ENetPeer*, std::vector<Tile*, std::allocator<Tile*> >))(void*, std::vector<Tile*, std::allocator<Tile*> >)> > > >, std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* (_ENetPeer*, std::vector<Tile*, std::allocator<Tile*> >))(void*, std::vector<Tile*, std::allocator<Tile*> >)> > >, (__gnu_cxx::_Lock_policy)2>::~_Sp_counted_deleter()
+00017690 W std::_Sp_counted_deleter<std::thread::_Impl<std::_Bind_simple<void* (* (_ENetPeer*, std::vector<Tile*, std::allocator<Tile*> >))(void*, std::vector<Tile*, std::allocator<Tile*> >)> >*, std::__shared_ptr<std::thread::_Impl<std::_Bind_simple<void* (* (_ENetPeer*, std::vector<Tile*, std::allocator<Tile*> >))(void*, std::vector<Tile*, std::allocator<Tile*> >)> >, (__gnu_cxx::_Lock_policy)2>::_Deleter<std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* (_ENetPeer*, std::vector<Tile*, std::allocator<Tile*> >))(void*, std::vector<Tile*, std::allocator<Tile*> >)> > > >, std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* (_ENetPeer*, std::vector<Tile*, std::allocator<Tile*> >))(void*, std::vector<Tile*, std::allocator<Tile*> >)> > >, (__gnu_cxx::_Lock_policy)2>::~_Sp_counted_deleter()
+00017edc W std::_Sp_counted_deleter<std::thread::_Impl<std::_Bind_simple<void* (* (std::string))(std::string)> >*, std::__shared_ptr<std::thread::_Impl<std::_Bind_simple<void* (* (std::string))(std::string)> >, (__gnu_cxx::_Lock_policy)2>::_Deleter<std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* (std::string))(std::string)> > > >, std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* (std::string))(std::string)> > >, (__gnu_cxx::_Lock_policy)2>::_M_destroy()
+0001e440 W std::_Sp_counted_deleter<std::thread::_Impl<std::_Bind_simple<void* (* (std::string))(std::string)> >*, std::__shared_ptr<std::thread::_Impl<std::_Bind_simple<void* (* (std::string))(std::string)> >, (__gnu_cxx::_Lock_policy)2>::_Deleter<std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* (std::string))(std::string)> > > >, std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* (std::string))(std::string)> > >, (__gnu_cxx::_Lock_policy)2>::_M_dispose()
+000176a0 W std::_Sp_counted_deleter<std::thread::_Impl<std::_Bind_simple<void* (* (std::string))(std::string)> >*, std::__shared_ptr<std::thread::_Impl<std::_Bind_simple<void* (* (std::string))(std::string)> >, (__gnu_cxx::_Lock_policy)2>::_Deleter<std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* (std::string))(std::string)> > > >, std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* (std::string))(std::string)> > >, (__gnu_cxx::_Lock_policy)2>::_M_get_deleter(std::type_info const&)
+00017e80 W std::_Sp_counted_deleter<std::thread::_Impl<std::_Bind_simple<void* (* (std::string))(std::string)> >*, std::__shared_ptr<std::thread::_Impl<std::_Bind_simple<void* (* (std::string))(std::string)> >, (__gnu_cxx::_Lock_policy)2>::_Deleter<std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* (std::string))(std::string)> > > >, std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* (std::string))(std::string)> > >, (__gnu_cxx::_Lock_policy)2>::~_Sp_counted_deleter()
+0001769c W std::_Sp_counted_deleter<std::thread::_Impl<std::_Bind_simple<void* (* (std::string))(std::string)> >*, std::__shared_ptr<std::thread::_Impl<std::_Bind_simple<void* (* (std::string))(std::string)> >, (__gnu_cxx::_Lock_policy)2>::_Deleter<std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* (std::string))(std::string)> > > >, std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* (std::string))(std::string)> > >, (__gnu_cxx::_Lock_policy)2>::~_Sp_counted_deleter()
+0001769c W std::_Sp_counted_deleter<std::thread::_Impl<std::_Bind_simple<void* (* (std::string))(std::string)> >*, std::__shared_ptr<std::thread::_Impl<std::_Bind_simple<void* (* (std::string))(std::string)> >, (__gnu_cxx::_Lock_policy)2>::_Deleter<std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* (std::string))(std::string)> > > >, std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* (std::string))(std::string)> > >, (__gnu_cxx::_Lock_policy)2>::~_Sp_counted_deleter()
+00017ed0 W std::_Sp_counted_deleter<std::thread::_Impl<std::_Bind_simple<void* (* ())()> >*, std::__shared_ptr<std::thread::_Impl<std::_Bind_simple<void* (* ())()> >, (__gnu_cxx::_Lock_policy)2>::_Deleter<std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* ())()> > > >, std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* ())()> > >, (__gnu_cxx::_Lock_policy)2>::_M_destroy()
+0001e3d4 W std::_Sp_counted_deleter<std::thread::_Impl<std::_Bind_simple<void* (* ())()> >*, std::__shared_ptr<std::thread::_Impl<std::_Bind_simple<void* (* ())()> >, (__gnu_cxx::_Lock_policy)2>::_Deleter<std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* ())()> > > >, std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* ())()> > >, (__gnu_cxx::_Lock_policy)2>::_M_dispose()
+0001767c W std::_Sp_counted_deleter<std::thread::_Impl<std::_Bind_simple<void* (* ())()> >*, std::__shared_ptr<std::thread::_Impl<std::_Bind_simple<void* (* ())()> >, (__gnu_cxx::_Lock_policy)2>::_Deleter<std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* ())()> > > >, std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* ())()> > >, (__gnu_cxx::_Lock_policy)2>::_M_get_deleter(std::type_info const&)
+00017ebc W std::_Sp_counted_deleter<std::thread::_Impl<std::_Bind_simple<void* (* ())()> >*, std::__shared_ptr<std::thread::_Impl<std::_Bind_simple<void* (* ())()> >, (__gnu_cxx::_Lock_policy)2>::_Deleter<std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* ())()> > > >, std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* ())()> > >, (__gnu_cxx::_Lock_policy)2>::~_Sp_counted_deleter()
+00017678 W std::_Sp_counted_deleter<std::thread::_Impl<std::_Bind_simple<void* (* ())()> >*, std::__shared_ptr<std::thread::_Impl<std::_Bind_simple<void* (* ())()> >, (__gnu_cxx::_Lock_policy)2>::_Deleter<std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* ())()> > > >, std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* ())()> > >, (__gnu_cxx::_Lock_policy)2>::~_Sp_counted_deleter()
+00017678 W std::_Sp_counted_deleter<std::thread::_Impl<std::_Bind_simple<void* (* ())()> >*, std::__shared_ptr<std::thread::_Impl<std::_Bind_simple<void* (* ())()> >, (__gnu_cxx::_Lock_policy)2>::_Deleter<std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* ())()> > > >, std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* ())()> > >, (__gnu_cxx::_Lock_policy)2>::~_Sp_counted_deleter()
+00017ed4 W std::_Sp_counted_deleter<std::thread::_Impl<std::_Bind_simple<void (* ())()> >*, std::__shared_ptr<std::thread::_Impl<std::_Bind_simple<void (* ())()> >, (__gnu_cxx::_Lock_policy)2>::_Deleter<std::allocator<std::thread::_Impl<std::_Bind_simple<void (* ())()> > > >, std::allocator<std::thread::_Impl<std::_Bind_simple<void (* ())()> > >, (__gnu_cxx::_Lock_policy)2>::_M_destroy()
+0001e3f8 W std::_Sp_counted_deleter<std::thread::_Impl<std::_Bind_simple<void (* ())()> >*, std::__shared_ptr<std::thread::_Impl<std::_Bind_simple<void (* ())()> >, (__gnu_cxx::_Lock_policy)2>::_Deleter<std::allocator<std::thread::_Impl<std::_Bind_simple<void (* ())()> > > >, std::allocator<std::thread::_Impl<std::_Bind_simple<void (* ())()> > >, (__gnu_cxx::_Lock_policy)2>::_M_dispose()
+00017688 W std::_Sp_counted_deleter<std::thread::_Impl<std::_Bind_simple<void (* ())()> >*, std::__shared_ptr<std::thread::_Impl<std::_Bind_simple<void (* ())()> >, (__gnu_cxx::_Lock_policy)2>::_Deleter<std::allocator<std::thread::_Impl<std::_Bind_simple<void (* ())()> > > >, std::allocator<std::thread::_Impl<std::_Bind_simple<void (* ())()> > >, (__gnu_cxx::_Lock_policy)2>::_M_get_deleter(std::type_info const&)
+00017ea8 W std::_Sp_counted_deleter<std::thread::_Impl<std::_Bind_simple<void (* ())()> >*, std::__shared_ptr<std::thread::_Impl<std::_Bind_simple<void (* ())()> >, (__gnu_cxx::_Lock_policy)2>::_Deleter<std::allocator<std::thread::_Impl<std::_Bind_simple<void (* ())()> > > >, std::allocator<std::thread::_Impl<std::_Bind_simple<void (* ())()> > >, (__gnu_cxx::_Lock_policy)2>::~_Sp_counted_deleter()
+00017684 W std::_Sp_counted_deleter<std::thread::_Impl<std::_Bind_simple<void (* ())()> >*, std::__shared_ptr<std::thread::_Impl<std::_Bind_simple<void (* ())()> >, (__gnu_cxx::_Lock_policy)2>::_Deleter<std::allocator<std::thread::_Impl<std::_Bind_simple<void (* ())()> > > >, std::allocator<std::thread::_Impl<std::_Bind_simple<void (* ())()> > >, (__gnu_cxx::_Lock_policy)2>::~_Sp_counted_deleter()
+00017684 W std::_Sp_counted_deleter<std::thread::_Impl<std::_Bind_simple<void (* ())()> >*, std::__shared_ptr<std::thread::_Impl<std::_Bind_simple<void (* ())()> >, (__gnu_cxx::_Lock_policy)2>::_Deleter<std::allocator<std::thread::_Impl<std::_Bind_simple<void (* ())()> > > >, std::allocator<std::thread::_Impl<std::_Bind_simple<void (* ())()> > >, (__gnu_cxx::_Lock_policy)2>::~_Sp_counted_deleter()
+0017533c T std::bad_array_new_length::~bad_array_new_length()
+00175320 T std::bad_array_new_length::~bad_array_new_length()
+00175320 T std::bad_array_new_length::~bad_array_new_length()
+00131244 W std::mersenne_twister_engine<unsigned int, 32u, 624u, 397u, 31u, 2567483615u, 11u, 4294967295u, 7u, 2636928640u, 15u, 4022730752u, 18u, 1812433253u>::operator()()
+0013183c W std::map<char const*, int, std::less<char const*>, std::allocator<std::pair<char const* const, int> > >::~map()
+0013183c W std::map<char const*, int, std::less<char const*>, std::allocator<std::pair<char const* const, int> > >::~map()
+00130c2c W std::map<std::string, void*, std::less<std::string>, std::allocator<std::pair<std::string const, void*> > >::~map()
+00130c2c W std::map<std::string, void*, std::less<std::string>, std::allocator<std::pair<std::string const, void*> > >::~map()
+00131628 W std::map<int, std::queue<int, std::deque<int, std::allocator<int> > >, std::less<int>, std::allocator<std::pair<int const, std::queue<int, std::deque<int, std::allocator<int> > > > > >::~map()
+00131628 W std::map<int, std::queue<int, std::deque<int, std::allocator<int> > >, std::less<int>, std::allocator<std::pair<int const, std::queue<int, std::deque<int, std::allocator<int> > > > > >::~map()
+0013169c W void std::deque<int, std::allocator<int> >::_M_push_back_aux<int const&>(int const&)
+0001fab0 W std::thread::_Impl<std::_Bind_simple<void* (* (_ENetPeer*, std::vector<Tile*, std::allocator<Tile*> >))(void*, std::vector<Tile*, std::allocator<Tile*> >)> >::~_Impl()
+0001f890 W std::thread::_Impl<std::_Bind_simple<void* (* (_ENetPeer*, std::vector<Tile*, std::allocator<Tile*> >))(void*, std::vector<Tile*, std::allocator<Tile*> >)> >::~_Impl()
+0001f890 W std::thread::_Impl<std::_Bind_simple<void* (* (_ENetPeer*, std::vector<Tile*, std::allocator<Tile*> >))(void*, std::vector<Tile*, std::allocator<Tile*> >)> >::~_Impl()
+00021500 W std::thread::_Impl<std::_Bind_simple<void* (* (std::string))(std::string)> >::_M_run()
+000219b4 W std::thread::_Impl<std::_Bind_simple<void* (* (std::string))(std::string)> >::~_Impl()
+000215c4 W std::thread::_Impl<std::_Bind_simple<void* (* (std::string))(std::string)> >::~_Impl()
+000215c4 W std::thread::_Impl<std::_Bind_simple<void* (* (std::string))(std::string)> >::~_Impl()
+000176a8 W std::thread::_Impl<std::_Bind_simple<void* (* ())()> >::_M_run()
+0001fa04 W std::thread::_Impl<std::_Bind_simple<void* (* ())()> >::~_Impl()
+0001f7ec W std::thread::_Impl<std::_Bind_simple<void* (* ())()> >::~_Impl()
+0001f7ec W std::thread::_Impl<std::_Bind_simple<void* (* ())()> >::~_Impl()
+000176b0 W std::thread::_Impl<std::_Bind_simple<void (* ())()> >::_M_run()
+0001f958 W std::thread::_Impl<std::_Bind_simple<void (* ())()> >::~_Impl()
+0001f748 W std::thread::_Impl<std::_Bind_simple<void (* ())()> >::~_Impl()
+0001f748 W std::thread::_Impl<std::_Bind_simple<void (* ())()> >::~_Impl()
+000eb370 W std::thread::thread<void (&)()>(void (&)())
+000eb370 W std::thread::thread<void (&)()>(void (&)())
+000ee084 W void std::vector<std::string, std::allocator<std::string> >::_M_emplace_back_aux<std::string const&>(std::string const&)
+00130cfc W void std::vector<std::string, std::allocator<std::string> >::_M_emplace_back_aux<std::string>(std::string&&)
+00017dd0 W std::vector<bool, std::allocator<bool> >::~vector()
+00017dd0 W std::vector<bool, std::allocator<bool> >::~vector()
+000e06a0 W std::vector<unsigned char, std::allocator<unsigned char> >::operator=(std::vector<unsigned char, std::allocator<unsigned char> > const&)
+000f4b9c W void std::vector<int, std::allocator<int> >::_M_emplace_back_aux<int const&>(int const&)
+00017d00 W std::vector<int, std::allocator<int> >::~vector()
+00017d00 W std::vector<int, std::allocator<int> >::~vector()
+000dd7cc W std::vector<int, std::allocator<int> >::operator=(std::vector<int, std::allocator<int> > const&)
+00131808 W std::_Rb_tree<char const*, std::pair<char const* const, int>, std::_Select1st<std::pair<char const* const, int> >, std::less<char const*>, std::allocator<std::pair<char const* const, int> > >::_M_erase(std::_Rb_tree_node<std::pair<char const* const, int> >*)
+00109f90 W std::_Rb_tree<std::string, std::pair<std::string const, void*>, std::_Select1st<std::pair<std::string const, void*> >, std::less<std::string>, std::allocator<std::pair<std::string const, void*> > >::find(std::string const&)
+00130b64 W std::_Rb_tree<std::string, std::pair<std::string const, void*>, std::_Select1st<std::pair<std::string const, void*> >, std::less<std::string>, std::allocator<std::pair<std::string const, void*> > >::_M_erase(std::_Rb_tree_node<std::pair<std::string const, void*> >*)
+00131878 W std::_Rb_tree<int, std::pair<int const, std::queue<int, std::deque<int, std::allocator<int> > > >, std::_Select1st<std::pair<int const, std::queue<int, std::deque<int, std::allocator<int> > > > >, std::less<int>, std::allocator<std::pair<int const, std::queue<int, std::deque<int, std::allocator<int> > > > > >::_M_get_insert_unique_pos(int const&)
+001315bc W std::_Rb_tree<int, std::pair<int const, std::queue<int, std::deque<int, std::allocator<int> > > >, std::_Select1st<std::pair<int const, std::queue<int, std::deque<int, std::allocator<int> > > > >, std::less<int>, std::allocator<std::pair<int const, std::queue<int, std::deque<int, std::allocator<int> > > > > >::_M_erase(std::_Rb_tree_node<std::pair<int const, std::queue<int, std::deque<int, std::allocator<int> > > > >*)
+00175378 T std::bad_cast::~bad_cast()
+0017535c T std::bad_cast::~bad_cast()
+0017535c T std::bad_cast::~bad_cast()
+0013f168 T std::bad_alloc::~bad_alloc()
+0013f14c T std::bad_alloc::~bad_alloc()
+0013f14c T std::bad_alloc::~bad_alloc()
+0013fa8c T std::exception::~exception()
+0013fa54 T std::exception::~exception()
+0013fa54 T std::exception::~exception()
+00140250 T std::unexpected()
+001401d4 T std::get_terminate()
+001401a8 T std::set_terminate(void (*)())
+00175f88 T void std::__convert_to_v<double>(char const*, double&, std::_Ios_Iostate&, int* const&)
+00176068 T void std::__convert_to_v<long double>(char const*, long double&, std::_Ios_Iostate&, int* const&)
+00175ea4 T void std::__convert_to_v<float>(char const*, float&, std::_Ios_Iostate&, int* const&)
+00140234 T std::get_unexpected()
+00140208 T std::set_unexpected(void (*)())
+0017572c T std::get_new_handler()
+0017570c T std::set_new_handler(void (*)())
+001755f0 T std::current_exception()
+0017565c T std::rethrow_exception(std::__exception_ptr::exception_ptr)
+0013fa44 T std::uncaught_exception()
+0021edf0 R std::nothrow
+001401f0 T std::terminate()
+0022418c V typeinfo for decimal64
+00224164 V typeinfo for decimal128
+002241b4 V typeinfo for decimal32
+0022440c V typeinfo for char32_t
+0022413c V typeinfo for std::nullptr_t
+00224434 V typeinfo for char16_t
+00222e84 D typeinfo for __cxxabiv1::__forced_unwind
+00222e60 D typeinfo for __cxxabiv1::__class_type_info
+00224510 D typeinfo for __cxxabiv1::__pbase_type_info
+00222ebc D typeinfo for __cxxabiv1::__foreign_exception
+00222f10 D typeinfo for __cxxabiv1::__pointer_type_info
+00222f78 D typeinfo for __cxxabiv1::__si_class_type_info
+00224550 D typeinfo for __cxxabiv1::__vmi_class_type_info
+002244d8 D typeinfo for __cxxabiv1::__fundamental_type_info
+0022417c V typeinfo for decimal64*
+00224154 V typeinfo for decimal128*
+002241a4 V typeinfo for decimal32*
+002243fc V typeinfo for char32_t*
+0022412c V typeinfo for std::nullptr_t*
+00224424 V typeinfo for char16_t*
+0022416c V typeinfo for decimal64 const*
+00224144 V typeinfo for decimal128 const*
+00224194 V typeinfo for decimal32 const*
+002243ec V typeinfo for char32_t const*
+0022411c V typeinfo for std::nullptr_t const*
+00224414 V typeinfo for char16_t const*
+0022439c V typeinfo for signed char const*
+00224464 V typeinfo for bool const*
+002243c4 V typeinfo for char const*
+002241e4 V typeinfo for double const*
+002241bc V typeinfo for long double const*
+0022420c V typeinfo for float const*
+00224374 V typeinfo for unsigned char const*
+002242fc V typeinfo for int const*
+002242d4 V typeinfo for unsigned int const*
+002242ac V typeinfo for long const*
+00224284 V typeinfo for unsigned long const*
+0022434c V typeinfo for short const*
+00224324 V typeinfo for unsigned short const*
+0022448c V typeinfo for void const*
+0022443c V typeinfo for wchar_t const*
+0022425c V typeinfo for long long const*
+00224234 V typeinfo for unsigned long long const*
+002243ac V typeinfo for signed char*
+00224474 V typeinfo for bool*
+002243d4 V typeinfo for char*
+002241f4 V typeinfo for double*
+002241cc V typeinfo for long double*
+0022421c V typeinfo for float*
+00224384 V typeinfo for unsigned char*
+0022430c V typeinfo for int*
+002242e4 V typeinfo for unsigned int*
+002242bc V typeinfo for long*
+00224294 V typeinfo for unsigned long*
+0022435c V typeinfo for short*
+00224334 V typeinfo for unsigned short*
+0022449c V typeinfo for void*
+0022444c V typeinfo for wchar_t*
+0022426c V typeinfo for long long*
+00224244 V typeinfo for unsigned long long*
+00224110 D typeinfo for std::bad_typeid
+00222eb0 D typeinfo for std::bad_exception
+002240a0 D typeinfo for std::bad_array_length
+002240c8 D typeinfo for std::bad_array_new_length
+002240d4 D typeinfo for std::bad_cast
+00222e08 D typeinfo for std::bad_alloc
+00222e8c D typeinfo for std::exception
+002243bc V typeinfo for signed char
+00224484 V typeinfo for bool
+002243e4 V typeinfo for char
+00224204 V typeinfo for double
+002241dc V typeinfo for long double
+0022422c V typeinfo for float
+00224394 V typeinfo for unsigned char
+0022431c V typeinfo for int
+002242f4 V typeinfo for unsigned int
+002242cc V typeinfo for long
+002242a4 V typeinfo for unsigned long
+0022436c V typeinfo for short
+00224344 V typeinfo for unsigned short
+002244ac V typeinfo for void
+0022445c V typeinfo for wchar_t
+0022427c V typeinfo for long long
+00224254 V typeinfo for unsigned long long
+0021ed98 V typeinfo name for decimal64
+0021eda8 V typeinfo name for decimal128
+0021ed88 V typeinfo name for decimal32
+0021ecd0 V typeinfo name for char32_t
+0021edb8 V typeinfo name for std::nullptr_t
+0021ecc0 V typeinfo name for char16_t
+0021d818 R typeinfo name for __cxxabiv1::__forced_unwind
+0021d7a0 R typeinfo name for __cxxabiv1::__class_type_info
+0021edf4 R typeinfo name for __cxxabiv1::__pbase_type_info
+0021d838 R typeinfo name for __cxxabiv1::__foreign_exception
+0021d880 R typeinfo name for __cxxabiv1::__pointer_type_info
+0021d8a4 R typeinfo name for __cxxabiv1::__si_class_type_info
+0021ee18 R typeinfo name for __cxxabiv1::__vmi_class_type_info
+0021edc8 R typeinfo name for __cxxabiv1::__fundamental_type_info
+0021ed9c V typeinfo name for decimal64*
+0021edac V typeinfo name for decimal128*
+0021ed8c V typeinfo name for decimal32*
+0021ecd4 V typeinfo name for char32_t*
+0021edbc V typeinfo name for std::nullptr_t*
+0021ecc4 V typeinfo name for char16_t*
+0021eda0 V typeinfo name for decimal64 const*
+0021edb0 V typeinfo name for decimal128 const*
+0021ed90 V typeinfo name for decimal32 const*
+0021ecd8 V typeinfo name for char32_t const*
+0021edc0 V typeinfo name for std::nullptr_t const*
+0021ecc8 V typeinfo name for char16_t const*
+0021ecf4 V typeinfo name for signed char const*
+0021ecb0 V typeinfo name for bool const*
+0021ece8 V typeinfo name for char const*
+0021ed78 V typeinfo name for double const*
+0021ed84 V typeinfo name for long double const*
+0021ed6c V typeinfo name for float const*
+0021ed00 V typeinfo name for unsigned char const*
+0021ed24 V typeinfo name for int const*
+0021ed30 V typeinfo name for unsigned int const*
+0021ed3c V typeinfo name for long const*
+0021ed48 V typeinfo name for unsigned long const*
+0021ed0c V typeinfo name for short const*
+0021ed18 V typeinfo name for unsigned short const*
+0021eca4 V typeinfo name for void const*
+0021ecbc V typeinfo name for wchar_t const*
+0021ed54 V typeinfo name for long long const*
+0021ed60 V typeinfo name for unsigned long long const*
+0021ecf0 V typeinfo name for signed char*
+0021ecac V typeinfo name for bool*
+0021ece4 V typeinfo name for char*
+0021ed74 V typeinfo name for double*
+0021ed80 V typeinfo name for long double*
+0021ed68 V typeinfo name for float*
+0021ecfc V typeinfo name for unsigned char*
+0021ed20 V typeinfo name for int*
+0021ed2c V typeinfo name for unsigned int*
+0021ed38 V typeinfo name for long*
+0021ed44 V typeinfo name for unsigned long*
+0021ed08 V typeinfo name for short*
+0021ed14 V typeinfo name for unsigned short*
+0021eca0 V typeinfo name for void*
+0021ecb8 V typeinfo name for wchar_t*
+0021ed50 V typeinfo name for long long*
+0021ed5c V typeinfo name for unsigned long long*
+0021ec8c R typeinfo name for std::bad_typeid
+0021d86c R typeinfo name for std::bad_exception
+0021ec4c R typeinfo name for std::bad_array_length
+0021ec64 R typeinfo name for std::bad_array_new_length
+0021ec80 R typeinfo name for std::bad_cast
+0021d790 R typeinfo name for std::bad_alloc
+0021d85c R typeinfo name for std::exception
+0021ecec V typeinfo name for signed char
+0021eca8 V typeinfo name for bool
+0021ece0 V typeinfo name for char
+0021ed70 V typeinfo name for double
+0021ed7c V typeinfo name for long double
+0021ed64 V typeinfo name for float
+0021ecf8 V typeinfo name for unsigned char
+0021ed1c V typeinfo name for int
+0021ed28 V typeinfo name for unsigned int
+0021ed34 V typeinfo name for long
+0021ed40 V typeinfo name for unsigned long
+0021ed04 V typeinfo name for short
+0021ed10 V typeinfo name for unsigned short
+0021ec9c V typeinfo name for void
+0021ecb4 V typeinfo name for wchar_t
+0021ed4c V typeinfo name for long long
+0021ed58 V typeinfo name for unsigned long long
+00222ec8 D vtable for __cxxabiv1::__forced_unwind
+00222e30 D vtable for __cxxabiv1::__class_type_info
+002244e8 D vtable for __cxxabiv1::__pbase_type_info
+00222ee0 D vtable for __cxxabiv1::__foreign_exception
+00222f20 D vtable for __cxxabiv1::__pointer_type_info
+00222f48 D vtable for __cxxabiv1::__si_class_type_info
+00224520 D vtable for __cxxabiv1::__vmi_class_type_info
+002244b8 D vtable for __cxxabiv1::__fundamental_type_info
+00222d10 V vtable for std::thread::_Impl_base
+00222d40 V vtable for std::thread::_Impl<std::_Bind_simple<void* (* (_ENetPeer*, std::vector<Tile*, std::allocator<Tile*> >))(void*, std::vector<Tile*, std::allocator<Tile*> >)> >
+00222d28 V vtable for std::thread::_Impl<std::_Bind_simple<void* (* (std::string))(std::string)> >
+00222d70 V vtable for std::thread::_Impl<std::_Bind_simple<void* (* ())()> >
+00222d58 V vtable for std::thread::_Impl<std::_Bind_simple<void (* ())()> >
+002240f8 D vtable for std::bad_typeid
+00222e98 D vtable for std::bad_exception
+00222cf0 V vtable for std::_Sp_counted_base<(__gnu_cxx::_Lock_policy)2>
+00224088 D vtable for std::bad_array_length
+00222da8 V vtable for std::_Sp_counted_deleter<std::thread::_Impl<std::_Bind_simple<void* (* (_ENetPeer*, std::vector<Tile*, std::allocator<Tile*> >))(void*, std::vector<Tile*, std::allocator<Tile*> >)> >*, std::__shared_ptr<std::thread::_Impl<std::_Bind_simple<void* (* (_ENetPeer*, std::vector<Tile*, std::allocator<Tile*> >))(void*, std::vector<Tile*, std::allocator<Tile*> >)> >, (__gnu_cxx::_Lock_policy)2>::_Deleter<std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* (_ENetPeer*, std::vector<Tile*, std::allocator<Tile*> >))(void*, std::vector<Tile*, std::allocator<Tile*> >)> > > >, std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* (_ENetPeer*, std::vector<Tile*, std::allocator<Tile*> >))(void*, std::vector<Tile*, std::allocator<Tile*> >)> > >, (__gnu_cxx::_Lock_policy)2>
+00222d88 V vtable for std::_Sp_counted_deleter<std::thread::_Impl<std::_Bind_simple<void* (* (std::string))(std::string)> >*, std::__shared_ptr<std::thread::_Impl<std::_Bind_simple<void* (* (std::string))(std::string)> >, (__gnu_cxx::_Lock_policy)2>::_Deleter<std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* (std::string))(std::string)> > > >, std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* (std::string))(std::string)> > >, (__gnu_cxx::_Lock_policy)2>
+00222de8 V vtable for std::_Sp_counted_deleter<std::thread::_Impl<std::_Bind_simple<void* (* ())()> >*, std::__shared_ptr<std::thread::_Impl<std::_Bind_simple<void* (* ())()> >, (__gnu_cxx::_Lock_policy)2>::_Deleter<std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* ())()> > > >, std::allocator<std::thread::_Impl<std::_Bind_simple<void* (* ())()> > >, (__gnu_cxx::_Lock_policy)2>
+00222dc8 V vtable for std::_Sp_counted_deleter<std::thread::_Impl<std::_Bind_simple<void (* ())()> >*, std::__shared_ptr<std::thread::_Impl<std::_Bind_simple<void (* ())()> >, (__gnu_cxx::_Lock_policy)2>::_Deleter<std::allocator<std::thread::_Impl<std::_Bind_simple<void (* ())()> > > >, std::allocator<std::thread::_Impl<std::_Bind_simple<void (* ())()> > >, (__gnu_cxx::_Lock_policy)2>
+002240b0 D vtable for std::bad_array_new_length
+002240e0 D vtable for std::bad_cast
+00222e18 D vtable for std::bad_alloc
+00222ef8 D vtable for std::exception
+0013f274 T operator delete[](void*)
+0013f270 T operator delete(void*)
+00140548 T operator new[](unsigned int)
+001404f4 T operator new(unsigned int)
+00183f84 T ___Unwind_Backtrace
+00183f60 T ___Unwind_ForcedUnwind
+00183ef4 T ___Unwind_RaiseException
+00183f18 T ___Unwind_Resume
+00183f3c T ___Unwind_Resume_or_Rethrow
+001826bc T __adddf3
+00182a74 T __addsf3
+0018496c T __aeabi_cdcmpeq
+0018496c T __aeabi_cdcmple
+00184950 T __aeabi_cdrcmple
+00184abc T __aeabi_cfcmpeq
+00184abc T __aeabi_cfcmple
+00184aac T __aeabi_cfrcmple
+00182d9c T __aeabi_d2lz
+001849e4 T __aeabi_d2uiz
+00182e4c T __aeabi_d2ulz
+001826bc T __aeabi_dadd
+00184980 T __aeabi_dcmpeq
+001849bc T __aeabi_dcmpge
+001849d0 T __aeabi_dcmpgt
+001849a8 T __aeabi_dcmple
+00184994 T __aeabi_dcmplt
+001846b4 T __aeabi_ddiv
+00184448 T __aeabi_dmul
+001826b0 T __aeabi_drsub
+001826b8 T __aeabi_dsub
+001829b4 T __aeabi_f2d
+00182d64 T __aeabi_f2lz
+00182de0 T __aeabi_f2ulz
+00182a74 T __aeabi_fadd
+00184ad0 T __aeabi_fcmpeq
+00184b0c T __aeabi_fcmpge
+00184b20 T __aeabi_fcmpgt
+00184af8 T __aeabi_fcmple
+00184ae4 T __aeabi_fcmplt
+00182a68 T __aeabi_frsub
+00182a70 T __aeabi_fsub
+0018298c T __aeabi_i2d
+00182c0c T __aeabi_i2f
+001825b4 T __aeabi_idiv
+00182d38 W __aeabi_idiv0
+00182690 T __aeabi_idivmod
+00182a08 T __aeabi_l2d
+00182c3c T __aeabi_l2f
+00182d38 W __aeabi_ldiv0
+00182cb8 T __aeabi_ldivmod
+00184df0 T __aeabi_llsl
+00184dd4 T __aeabi_llsr
+00182968 T __aeabi_ui2d
+00182c04 T __aeabi_ui2f
+001824ec T __aeabi_uidiv
+00182594 T __aeabi_uidivmod
+001829f4 T __aeabi_ul2d
+00182c2c T __aeabi_ul2f
+00182cfc T __aeabi_uldivmod
+00183a8c T __aeabi_unwind_cpp_pr0
+00183a94 W __aeabi_unwind_cpp_pr1
+00183a9c W __aeabi_unwind_cpp_pr2
+         U __android_log_print
+00184df0 T __ashldi3
+002260b8 A __bss_start
+00182d48 T __clear_cache
+001848c8 T __cmpdf2
+00184a48 T __cmpsf2
+0013f460 T __cxa_allocate_dependent_exception
+0013f350 T __cxa_allocate_exception
+         U __cxa_atexit
+0013f708 T __cxa_bad_cast
+0013f738 T __cxa_bad_typeid
+0013f928 T __cxa_begin_catch
+0013f634 T __cxa_begin_cleanup
+0013f824 T __cxa_call_unexpected
+001824d0 T __cxa_current_exception_type
+001405f8 T __cxa_deleted_virtual
+001823dc T __cxa_demangle
+0013f9b8 T __cxa_end_catch
+0013f56c T __cxa_end_cleanup
+         U __cxa_finalize
+0013f4ec T __cxa_free_dependent_exception
+0013f3e8 T __cxa_free_exception
+0013f924 T __cxa_get_exception_ptr
+0013fb4c T __cxa_get_globals
+0013fb20 T __cxa_get_globals_fast
+00140470 T __cxa_guard_abort
+00140398 T __cxa_guard_acquire
+001404b4 T __cxa_guard_release
+001405e0 T __cxa_pure_virtual
+00140324 T __cxa_rethrow
+001402a4 T __cxa_throw
+0013f798 T __cxa_throw_bad_array_length
+0013f768 T __cxa_throw_bad_array_new_length
+0013f578 T __cxa_type_match
+001846b4 T __divdf3
+00184b34 T __divdi3
+001825b4 T __divsi3
+001753c8 T __dynamic_cast
+001848c8 T __eqdf2
+00184a48 T __eqsf2
+         U __errno
+001829b4 T __extendsfdf2
+00182d9c T __fixdfdi
+00182d64 T __fixsfdi
+00182e4c T __fixunsdfdi
+001849e4 T __fixunsdfsi
+00182de0 T __fixunssfdi
+00182a08 T __floatdidf
+00182c3c T __floatdisf
+0018298c T __floatsidf
+00182c0c T __floatsisf
+001829f4 T __floatundidf
+00182c2c T __floatundisf
+00182968 T __floatunsidf
+00182c04 T __floatunsisf
+001824ac T __gcclibcxx_demangle_callback
+001848b8 T __gedf2
+00184a38 T __gesf2
+001835d8 T __gnu_Unwind_Backtrace
+         w __gnu_Unwind_Find_exidx
+00183400 T __gnu_Unwind_ForcedUnwind
+0018335c T __gnu_Unwind_RaiseException
+00183e14 T __gnu_Unwind_Restore_VFP
+00183e24 T __gnu_Unwind_Restore_VFP_D
+00183e34 T __gnu_Unwind_Restore_VFP_D_16_to_31
+00183ecc T __gnu_Unwind_Restore_WMMXC
+00183e44 T __gnu_Unwind_Restore_WMMXD
+0018341c T __gnu_Unwind_Resume
+00183490 T __gnu_Unwind_Resume_or_Rethrow
+00183e1c T __gnu_Unwind_Save_VFP
+00183e2c T __gnu_Unwind_Save_VFP_D
+00183e3c T __gnu_Unwind_Save_VFP_D_16_to_31
+00183ee0 T __gnu_Unwind_Save_WMMXC
+00183e88 T __gnu_Unwind_Save_WMMXD
+0013f698 T __gnu_end_cleanup
+00182eb4 T __gnu_ldivmod_helper
+00182ef0 T __gnu_uldivmod_helper
+00184034 T __gnu_unwind_execute
+001843cc T __gnu_unwind_frame
+         w __google_potentially_blocking_region_begin
+         w __google_potentially_blocking_region_end
+001848b8 T __gtdf2
+00184a38 T __gtsf2
+001848c0 T __ledf2
+00184a40 T __lesf2
+00184dd4 T __lshrdi3
+001848c0 T __ltdf2
+00184a40 T __ltsf2
+00184448 T __muldf3
+001848c8 T __nedf2
+00184a48 T __nesf2
+         U __page_size
+00183e00 T __restore_core_regs
+         U __sF
+         U __stack_chk_fail
+         U __stack_chk_guard
+001826b8 T __subdf3
+00182a70 T __subsf3
+00184cc4 T __udivdi3
+001824ec T __udivsi3
+         U _ctype_
+002260b8 A _edata
+00235ed0 A _end
+         U _tolower_tab_
+         U _toupper_tab_
+         U abort
+         U accept
+         U acos
+         U acosf
+         U asin
+         U atan2
+         U atan2f
+         U atoi
+         U bind
+         U btowc
+         U ceil
+         U ceilf
+         U clearerr
+         U clock
+         U clock_gettime
+         U close
+         U connect
+         U cos
+         U cosf
+         U difftime
+         U dladdr
+         U dlopen
+         U dlsym
+         U exit
+         U exp
+         U fclose
+         U fdopen
+         U feof
+         U ferror
+         U fflush
+         U fgets
+         U floor
+         U floorf
+         U fmod
+         U fmodf
+         U fopen
+         U fprintf
+         U fputc
+         U fputs
+         U fread
+         U free
+         U freopen
+         U frexp
+         U fseek
+         U fstat
+         U ftell
+         U fwrite
+         U getc
+         U getenv
+         U gethostbyaddr
+         U gethostbyname
+         U getsockname
+         U getsockopt
+         U gettimeofday
+         U getwc
+         U glActiveTexture
+         U glAttachShader
+         U glBindBuffer
+         U glBindTexture
+         U glBlendEquation
+         U glBlendEquationSeparate
+         U glBlendFuncSeparate
+         U glBufferData
+         U glCompileShader
+         U glCreateProgram
+         U glCreateShader
+         U glDeleteBuffers
+         U glDeleteProgram
+         U glDeleteShader
+         U glDeleteTextures
+         U glDetachShader
+         U glDisable
+         U glDrawElements
+         U glEnable
+         U glEnableVertexAttribArray
+         U glGenBuffers
+         U glGenTextures
+         U glGetAttribLocation
+         U glGetIntegerv
+         U glGetProgramInfoLog
+         U glGetProgramiv
+         U glGetShaderInfoLog
+         U glGetShaderiv
+         U glGetUniformLocation
+         U glIsEnabled
+         U glLinkProgram
+         U glScissor
+         U glShaderSource
+         U glTexImage2D
+         U glTexParameteri
+         U glUniform1i
+         U glUniformMatrix4fv
+         U glUseProgram
+         U glVertexAttribPointer
+         U glViewport
+         U gmtime
+         U inet_aton
+         U inet_ntoa
+         U ioctl
+         U iswctype
+         U listen
+         U localtime
+         U log
+         U log10
+         U log2
+         U logf
+         U lrand48
+         U lroundf
+         U lseek
+         U malloc
+         U mbrtowc
+         U memchr
+         U memcmp
+         U memcpy
+         U memmove
+         U memset
+         U mktime
+         U mmap
+         U mprotect
+         U munmap
+         U nanosleep
+         U perror
+         U poll
+         U pow
+         U powf
+         U printf
+         U pthread_create
+         U pthread_detach
+         U pthread_equal
+         U pthread_getspecific
+         U pthread_join
+         U pthread_key_create
+         U pthread_key_delete
+         U pthread_mutex_lock
+         U pthread_mutex_unlock
+         U pthread_once
+         U pthread_setspecific
+         U putc
+         U puts
+         U putwc
+         U qsort
+         U raise
+         U read
+         U realloc
+         U recvmsg
+         U remove
+         U rename
+00183e00 T restore_core_regs
+         U select
+         U sendmsg
+         U setlocale
+         U setsockopt
+         U setvbuf
+         U shutdown
+         U sin
+         U sinf
+         U sleep
+         U snprintf
+         U socket
+         U sprintf
+         U sqrt
+         U sqrtf
+         U srand48
+         U sscanf
+         U strchr
+         U strcmp
+         U strcoll
+         U strcpy
+         U strerror
+         U strftime
+         U strlen
+         U strncmp
+         U strncpy
+         U strpbrk
+         U strspn
+         U strstr
+         U strtod
+         U strtoul
+         U strxfrm
+         U syscall
+         U sysconf
+         U system
+         U tan
+         U time
+         U tmpfile
+         U tmpnam
+         U towlower
+         U towupper
+         U ungetc
+         U ungetwc
+         U vsnprintf
+         U vsprintf
+         U wcrtomb
+         U wcscoll
+         U wcsftime
+         U wcslen
+         U wcsxfrm
+         U wctob
+         U wctype
+         U wmemchr
+         U wmemcmp
+         U wmemcpy
+         U wmemmove
+         U wmemset
+         U write
+         U writev
